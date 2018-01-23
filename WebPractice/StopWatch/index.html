@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TIMER</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/stopwatch.css">
+
+</head>
+<body>
+    <div class="container">
+        <p id="timer">00:00:00</p>
+        <div>
+            <button id="start_stop" class="btn btn-lg btn-primary">
+                START
+            </button>
+                
+        </div>
+    </div>
+    <script>
+        
+        var start;
+        var timer_id;
+        document.getElementById('start_stop').
+        addEventListener('click', function() {
+            if (this.innerHTML === 'START') {
+                start = new Date();
+                timer_id = setInterval(goTimer, 10);
+
+                // turn STOP Button
+                this.innerHTML = 'STOP';
+                this.classList.remove('btn-primary');
+                this.classList.add('btn-danger');
+            } else { 
+                clearInterval(timer_id);
+                // turn START Button
+                this.innerHTML = 'START';
+                this.classList.remove('btn-danger');
+                this.classList.add('btn-primary');
+            }
+        });
+
+
+        var zerofill2 = function(a) {
+            if (a < 10) {
+                a = '0' + a;
+            }
+            return a;
+        }
+        var goTimer = function() {
+            var now = new Date();
+            var time = now.getTime() - start.getTime();
+//            var milliseconds = time % 100;
+            var seconds = Math.floor(time / 1000 % 60);
+            var minutes = Math.floor(seconds / 1000 % 60);
+            var hour = Math.floor(minutes / 1000 % 60);
+
+            document.getElementById('timer').innerHTML = 
+            zerofill2(hour) + ':' + zerofill2(minutes) + ':' + zerofill2(seconds); // + ':' + zerofill2(milliseconds);
+        }        
+    </script>
+</body>
+</html>
