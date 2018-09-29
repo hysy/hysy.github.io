@@ -2,8 +2,8 @@
 Hayashiya is my Last Name in Kun-yomi.
 
 ## Education
-### Computer Science and Engineering, Faculty of Engineering,
-### Toyohashi University of Technology: Bachelor (2015~)
+#### Computer Science and Engineering, Faculty of Engineering,
+#### Toyohashi University of Technology: Bachelor (2015~)
 Discrete Mathematics Laboratory
 
 ## Links
