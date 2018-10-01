@@ -14,7 +14,7 @@ Hayashiya is my Last Name in Kun-yomi.
 - mail: rntnty#gmail#com
 
 ## Interest in Computer Science
-- Liner Programming, Approximation Algorithm (Study in Laboratory)
+- Linear Programming, Approximation Algorithm (Study in Laboratory)
 
 - Machine Learning, Statistics (Give me GPU) etc...
 
