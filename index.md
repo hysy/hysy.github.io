@@ -1,5 +1,5 @@
 ## What's hysy?
-Hayashiya is my Last Name in Kun-yomi.
+*Hayashiya* is my Last Name in Kun-yomi.
 
 ## Education
 ##### Computer Science and Engineering, Faculty of Engineering,
