@@ -1,10 +1,10 @@
 ## What's hysy?
-*Hayashiya* is my Last Name in Kun-yomi.
+*Hayashiya* is my last-name in Kun-yomi.
 
 ## Education
-Computer Science and Engineering, Faculty of Engineering,
-Toyohashi University of Technology: Bachelor (2015~)
-- Discrete Mathematics Laboratory
+Computer Science and Engineering, Faculty of Engineering, Toyohashi University of Technology: Bachelor (2015~)
+
+Discrete Mathematics Laboratory
 
 ## Links
 - Twitter: [@hysy__](https://mobile.twitter.com/hysy__)
@@ -16,7 +16,7 @@ Toyohashi University of Technology: Bachelor (2015~)
 ## Interest in Computer Science
 - Linear Programming, Approximation Algorithm (Study in Laboratory)
 
-- Machine Learning, Statistics (Give me GPU) etc...
+- Statistics, Machine Learning (Give me GPU) etc...
 
 ## Languages
 C, C++, Python, Java, CUDA...
@@ -28,7 +28,7 @@ C, C++, Python, Java, CUDA...
 
 - ACM-ICPC 2016 Asia Tsukuba Regional, team: meu amor (36th)
 
-## Intern
+## Internship
 - Fixstars (2019-01-07 ~ 2019-02-21)
 
 ## Product
