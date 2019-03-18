@@ -30,6 +30,7 @@ C, C++, Python, Java, CUDA...
 
 ## Internship
 - Fixstars (2019-01-07 ~ 2019-02-21)
+accelerate ORB_SLAM2
 
 ## Product
 Under Construction...
