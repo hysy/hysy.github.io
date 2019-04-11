@@ -2,7 +2,8 @@
 *Hayashiya* is my last-name in Kun-yomi.
 
 ## Education
-Computer Science and Engineering, Faculty of Engineering, Toyohashi University of Technology: Bachelor (2015~)
+Graduate Computer Science and Engineering, Faculty of Engineering, Toyohashi University of Technology: Bachelor (2015~2019)
+Computer Science and Engineering, Faculty of Engineering, Toyohashi University of Technology: Master (2019~)
 
 Discrete Mathematics Laboratory
 
@@ -30,7 +31,7 @@ C, C++, Python, Java, CUDA...
 
 ## Internship
 - Fixstars (2019-01-07 ~ 2019-02-21)
-accelerate ORB_SLAM2
+accelerate ORB_SLAM2 by CUDA
 
 ## Product
 Under Construction...
