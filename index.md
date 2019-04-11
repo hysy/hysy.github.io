@@ -3,6 +3,7 @@
 
 ## Education
 Graduate Computer Science and Engineering, Faculty of Engineering, Toyohashi University of Technology: Bachelor (2015~2019)
+
 Computer Science and Engineering, Faculty of Engineering, Toyohashi University of Technology: Master (2019~)
 
 Discrete Mathematics Laboratory
