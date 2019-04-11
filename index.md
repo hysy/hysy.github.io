@@ -2,11 +2,11 @@
 *Hayashiya* is my last-name in Kun-yomi.
 
 ## Education
-Graduate Computer Science and Engineering, Faculty of Engineering, Toyohashi University of Technology: Bachelor (2015~2019)
+- Graduate Computer Science and Engineering, Faculty of Engineering, Toyohashi University of Technology: Bachelor (2015~2019)
+  - Discrete Mathematics Laboratory
 
-Computer Science and Engineering, Faculty of Engineering, Toyohashi University of Technology: Master (2019~)
-
-Discrete Mathematics Laboratory
+- Computer Science and Engineering, Faculty of Engineering, Toyohashi University of Technology: Master (2019~)
+  - Discrete Mathematics Laboratory
 
 ## Links
 - Twitter: [@hysy__](https://mobile.twitter.com/hysy__)
