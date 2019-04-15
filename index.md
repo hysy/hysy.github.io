@@ -2,14 +2,14 @@
 *Hayashiya* is my last-name in Kun-yomi.
 
 ## Education
-- Graduate Computer Science and Engineering, Faculty of Engineering, Toyohashi University of Technology: Bachelor (2015~2019)
+- Computer Science and Engineering, Faculty of Engineering, Toyohashi University of Technology: Bachelor (2015-2019)
   - Discrete Mathematics Laboratory
 
-- Computer Science and Engineering, Faculty of Engineering, Toyohashi University of Technology: Master (2019~)
+- Graduate School of Computer Science and Engineering, Toyohashi University of Technology: Master (2019-)
   - Discrete Mathematics Laboratory
 
 ## Links
-- Twitter: [@hysy__](https://mobile.twitter.com/hysy__)
+- Twitter: [@hysy__](https://twitter.com/hysy__)
 
 - Github: [@hysy](https://github.com/hysy)
 
@@ -21,7 +21,7 @@
 - Statistics, Machine Learning (Give me GPU) etc...
 
 ## Languages
-C, C++, Python, Java, CUDA...
+- C, C++, Python, Java, CUDA...
 
 ## Programming Contest (Moderately)
 - Super Computing Contest 2013 (5th), 2014
@@ -32,7 +32,7 @@ C, C++, Python, Java, CUDA...
 
 ## Internship
 - Fixstars (2019-01-07 ~ 2019-02-21)
-accelerate [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM) by CUDA
+  - Accelerate [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2) by CUDA
 
 ## Product
 Under Construction...
