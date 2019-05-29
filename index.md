@@ -32,8 +32,9 @@
 
 ## Internship
 - Fixstars (2019-01-07 ~ 2019-02-21)
-  - Accelerate [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2) by CUDA
-
+  - Accelerate [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2) with CUDA
+- VOYAGE GROUP (2019-05-19)
+  - Chat Application with (Golang & Vue.js)
 ## Product
 Under Construction...
 
